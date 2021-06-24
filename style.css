@@ -1,0 +1,32 @@
+body {
+    padding: none;
+    margin: none;
+    background-color: #eaeaea;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #444444;
+}
+
+#wrapper {
+    width: 1000px;
+    margin: auto;
+}
+
+header {
+    padding: 0.3em;
+    font-size: 1.8em;
+    /* font-weight: 600; */
+    /* border-bottom: 1px solid #7cb5ff; */
+}
+
+a {
+    color: #395dff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5070ff;
+}
+
+a:visited {
+    color: #2c4ad1;
+}
